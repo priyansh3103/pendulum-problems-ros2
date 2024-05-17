@@ -17,12 +17,18 @@ def generate_launch_description():
 
     )
 
-    dynamics = Node(
+    dynamics1 = Node(
         package = 'single_inverted',
         executable = 'dynamics_sim'
     )
 
+    dynamics2 = Node(
+        package = 'single_inverted',
+        executable = 'torque_input'
+    )
+
     return LaunchDescription([
         visualizer,
-        dynamics
+        dynamics1,
+        dynamics2
     ])
