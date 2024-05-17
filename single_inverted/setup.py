@@ -26,7 +26,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'dynamics_sim = single_inverted.dynamics_sim:main'
+            'dynamics_sim = single_inverted.dynamics_sim:main',
+            'torque_input = single_inverted.torque_input:main'
         ],
     },
 )
