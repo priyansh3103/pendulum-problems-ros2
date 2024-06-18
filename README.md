@@ -1,3 +1,8 @@
+https://drive.google.com/file/d/1UTSkUIn_MT326USMu3yO1gvUhO3pPCDb/view?usp=sharing  
+link for the video demonstration of all cases of single and double pendulum.
+
+
+
 # Inverted Pendulum
 #### Implementation of control laws on simulated inverted pendulum on ros2
 
