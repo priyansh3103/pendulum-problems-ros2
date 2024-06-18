@@ -1,7 +1,7 @@
 https://drive.google.com/file/d/1UTSkUIn_MT326USMu3yO1gvUhO3pPCDb/view?usp=sharing  
 link for the video demonstration of all cases of single and double pendulum.
 
-
+The main learning was probably realizing the time-lag and visualizing it irl also got to learn about how updating states over a discrete time step dt leads to error accumulation and what can we do to reduce that, the double pendulum assignment was fairly simple except implementing the angular acceleartion equations for both the pendulum but after that it was pretty smooth.
 
 # Inverted Pendulum
 #### Implementation of control laws on simulated inverted pendulum on ros2
